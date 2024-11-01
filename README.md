@@ -1,8 +1,5 @@
 ---
 
-
----
-
 <p><strong>프로젝트: 날씨 상태 조회 웹 애플리케이션</strong></p>
 <p><strong>프로젝트 개요:</strong></p>
 <ul>
